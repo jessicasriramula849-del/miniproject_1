@@ -5,7 +5,7 @@ Brief summary about my miniproject:
 
 * In this project, I have analysed the traffic crash dataset provided and extracted all the 15 query data outputs from the entire traffic crash dataset using VScode and MySQL queries.
   
-* And displayed all the 15 data query outputs in streamlit to be able to see and analyse the data presented in an organised manner for decision making, to drive business insights and for providing information, here I have provided a brief summary of my project and the uses of my project.
+* And displayed all the 15 data query outputs in streamlit to be able to see and analyse the data presented in an organised manner for decision making, to drive business insights and for providing information, here I have provided a brief summary of my project and the analysis of my project.
 
 Analysis of my miniproject:
 
