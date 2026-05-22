@@ -9,10 +9,10 @@ Brief summary about my miniproject:
 
 Uses of my miniproject:
 
-* The 15 query data outputs can be used to analyse the data and inform different drivers about driving safely on the road to reduce the number of traffic crashes and injuries. 
+* My miniproject can be used to analyse the data and inform different drivers about driving safely on the road to reduce the number of traffic crashes and injuries. 
 
-* And can also be used to put road safety measures in place to reduce the number of road traffic crashes and injuries in particular areas where the traffic crashes and injuries are high and to inform road traffic police officers to be alert and watch out for traffic crashes in particular areas(location/zone), times(morning,afternoon,evening,night) so they can be aware of the situation on the road to be able to assist injured drivers.
+* And can also be used to put road safety measures in place to reduce the number of road traffic crashes and injuries in particular areas where the traffic crashes and injuries are high and to inform road traffic police officers to be alert and watch out for traffic crashes in particular areas(location/zone), times(morning,afternoon,evening,night) so they can be aware of the situation on the road to be able to assist injured drivers promptly.
 
-* Therefore my project anlaysis is able to showcase the data in such a way so that we can see and get a clear picture of the amount of road traffic crashes and injuries that happened in different locations, time zones, etc which can help to reduce, avoid and lower the total number of traffic crashes and injuries in the future days, months and years for drivers and road traffic businesses to make better decisions and utilising proper road safety measures. 
+* Therefore my project anlaysis is able to showcase the data in such a way so that we can see and get a clear picture of the amount of road traffic crashes and injuries that happened in different locations, time zones, etc which can help to make better decisions to reduce, avoid and lower the total number of traffic crashes and injuries in the future days, months and years for drivers on the road and for road traffic businesses to implement and utilise proper road safety measures. 
 
 * My project report is also attached here on github, where I have provided additional information about my project such as screenshots and the findings of my project analysis. 
