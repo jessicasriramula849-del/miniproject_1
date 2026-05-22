@@ -1,4 +1,4 @@
-# miniproject_1
+# My Project_1
 TRAFFIC CRASH DATA ANALYSIS PROJECT 1
 
 Brief summary about my project:
