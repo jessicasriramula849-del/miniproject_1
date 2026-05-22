@@ -1,13 +1,13 @@
 # miniproject_1
-TRAFFIC CRASH DATA ANALYSIS MINIPROJECT 1
+TRAFFIC CRASH DATA ANALYSIS PROJECT 1
 
-Brief summary about my miniproject:
+Brief summary about my project:
 
 * In this project, I have analysed the traffic crash dataset provided and extracted all the 15 query data outputs from the entire traffic crash dataset using VScode and MySQL queries.
   
 * And displayed all the 15 data query outputs in streamlit to be able to see and analyse the data presented in an organised manner for decision making, to drive business insights and for providing information, here I have provided a brief summary of my project and the analysis of my project.
 
-Analysis of my miniproject:
+Analysis of my project:
 
 * From the analysis of the data in my project, information can be provided to the drivers about driving safely on the road to reduce the number of traffic crashes and injuries for drivers.
 
